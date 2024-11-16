@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Anta&family=Delius+Swash+Caps&family=Gamja+Flower&family=Kanit:wght@500&family=Kranky&family=Modak&family=Permanent+Marker&family=Sedgwick+Ave&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anta&family=Delius+Swash+Caps&family=Gamja+Flower&family=Kanit:wght@500&family=Kranky&family=Modak&family=Montserrat+Alternates:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Permanent+Marker&family=Sedgwick+Ave&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anta&family=Delius+Swash+Caps&family=Gamja+Flower&family=Kanit:wght@500&family=Kranky&family=Modak&family=Montserrat+Alternates:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Permanent+Marker&family=Sedgwick+Ave&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #FBFBFB;
+}
+
+/* Navbar Style */
+.navbar{
+  background-color:#B2DFDB;
+}
+
+.nav-link{
+  color: #7986CB;
+  font-size: 25px;
+  font-weight: 400;
+  font-family: cursive;
+}
+
+/* Container Main Style */
+
+.container-main {
+  margin: 0 auto;
+  max-width: 1200px;
+  min-height: 500px;
+  text-align: center;
+  padding: 20px; 
+  padding-bottom: 10vh;
+}
+
+.container-title{
+  color: #009688;
+  text-align: center;
+  font-family: "Modak", serif;
+  font-size: 21px;
+  font-style: normal;
+}
+
+/* Instructions Style */
+
+.instructions-title{
+  color: #009688;
+  text-align: center;
+  font-family: "Gamja Flower", serif;
+  font-size: 25px;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.instructions-img{
+  height: 75%;
+  width: 100%;
+}
+
+.instructions-text{
+  color: #262626;
+  text-align: justify;
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+/* Calculator Style */
+
+.calculator-title{
+  color: #009688;
+  text-align: center;
+  font-family: "Gamja Flower", serif;
+  font-size: 25px;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.calculator-hr{
+  color: #00897B;
+}
+
+.calculator-result{
+  background-color: #E0F2F1;
+}
+
+.calculator-list{
+  color: #262626;
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.calculator-list strong{
+  color: #009688;
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  font-weight: 800;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+/* Footer Style */
+
+.footer{
+  background-color:#B2DFDB;
+}
+
+.copyright{
+  color: #4DB6AC;
+  font-family: cursive;
+  text-align: center;
+}
+
+.copyright-link{
+  color: #00897B;
+  font-weight: 700;
+  text-align: center;
+}
